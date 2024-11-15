@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bag-react/static/css/main.d3aa29f0.css",
+    "main.js": "/bag-react/static/js/main.56ac3e73.js",
+    "static/js/453.57396558.chunk.js": "/bag-react/static/js/453.57396558.chunk.js",
+    "index.html": "/bag-react/index.html",
+    "main.d3aa29f0.css.map": "/bag-react/static/css/main.d3aa29f0.css.map",
+    "main.56ac3e73.js.map": "/bag-react/static/js/main.56ac3e73.js.map",
+    "453.57396558.chunk.js.map": "/bag-react/static/js/453.57396558.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3aa29f0.css",
+    "static/js/main.56ac3e73.js"
+  ]
+}
